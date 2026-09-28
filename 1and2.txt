@@ -1,1 +1,2 @@
 I am testing git revert
+And now i changed the file
