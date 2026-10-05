@@ -1,4 +1,6 @@
 I am testing git revert
 And now i changed the file
 
+so here i am testing git clone and git pull
+
 new func
